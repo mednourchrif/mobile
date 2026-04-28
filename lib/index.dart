@@ -1,0 +1,49 @@
+// Export pages
+export '/account_profile_creation/auth_2_create/auth2_create_widget.dart'
+    show Auth2CreateWidget;
+export '/account_profile_creation/auth_2_login/auth2_login_widget.dart'
+    show Auth2LoginWidget;
+export '/account_profile_creation/auth_2_forgot_password/auth2_forgot_password_widget.dart'
+    show Auth2ForgotPasswordWidget;
+export '/account_profile_creation/auth_2_create_profile/auth2_create_profile_widget.dart'
+    show Auth2CreateProfileWidget;
+export '/account_profile_creation/auth_2_profile/auth2_profile_widget.dart'
+    show Auth2ProfileWidget;
+export '/gestion_contrat_professionnelle/listecontrats/listecontrats_widget.dart'
+    show ListecontratsWidget;
+export '/assistance/create_assistance_page/create_assistance_page_widget.dart'
+    show CreateAssistancePageWidget;
+export '/gestion_contrat_professionnelle/details_contrat/details_contrat_widget.dart'
+    show DetailsContratWidget;
+export '/gestion_contrat_professionnelle/ajouter_contrat/ajouter_contrat_widget.dart'
+    show AjouterContratWidget;
+export '/account_profile_creation/edit_profile_auth_3/edit_profile_auth3_widget.dart'
+    show EditProfileAuth3Widget;
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/assistance/assistance_detail_page/assistance_detail_page_widget.dart'
+    show AssistanceDetailPageWidget;
+export '/gestion_sinistre/declarationsinistre/declarationsinistre_widget.dart'
+    show DeclarationsinistreWidget;
+export '/gestion_sinistre/liste_sinistre/liste_sinistre_widget.dart'
+    show ListeSinistreWidget;
+export '/gestion_reparation/ajout_reparation/ajout_reparation_widget.dart'
+    show AjoutReparationWidget;
+export '/gestion_reparation/detail_reparation_admin/detail_reparation_admin_widget.dart'
+    show DetailReparationAdminWidget;
+export '/ajouter_vehicule/ajouter_vehicule_widget.dart'
+    show AjouterVehiculeWidget;
+export '/gestion_reparation/detailreparationclient/detailreparationclient_widget.dart'
+    show DetailreparationclientWidget;
+export '/modifier_vehicule/modifier_vehicule_widget.dart'
+    show ModifierVehiculeWidget;
+export '/gestion_reparation/listereparation/listereparation_widget.dart'
+    show ListereparationWidget;
+export '/details_vehicule/details_vehicule_widget.dart'
+    show DetailsVehiculeWidget;
+export '/list_vehicules/list_vehicules_widget.dart' show ListVehiculesWidget;
+export '/gestion_sinistre/detailsinistre/detailsinistre_widget.dart'
+    show DetailsinistreWidget;
+export '/gestion_reparation/mes_reparation/mes_reparation_widget.dart'
+    show MesReparationWidget;
+export '/gestion_sinistre/list_admin/list_admin_widget.dart'
+    show ListAdminWidget;
